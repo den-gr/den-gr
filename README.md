@@ -1,5 +1,5 @@
-### Hi there 👋
-I am a master's degree student at the University of Bologna.
+
+
 
 <!--
 **DenGuzawr22/DenGuzawr22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
