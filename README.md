@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenGuzawr22&hide=contribs,prs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=den-gr&hide=contribs,prs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenGuzawr22&theme=merko&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=den-gr&theme=merko&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Contributions streak](https://github-readme-streak-stats.herokuapp.com/?user=DenGuzawr22&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Contributions streak](https://github-readme-streak-stats.herokuapp.com/?user=den-gr&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
